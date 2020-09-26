@@ -1,0 +1,85 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+header{
+background-color: white;
+padding: 170px;
+
+}
+h1{  
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+h6 {
+text-align: center;
+color: red;
+padding: 40px;
+
+}
+h2{
+   text-align: center;
+   font-style: italic;
+
+}
+.section{
+   background-color:rgb(29, 13, 29);
+   padding: 60px;
+   color: white;
+   position: static;
+   
+}
+h3{
+   position: relative;
+   left: 20%;
+}
+#episode{
+   position: relative;
+   left: 20%;
+   
+}
+
+.box form{
+text-align: left;
+position: relative;
+left: 10%;
+}
+.box h4{
+   text-align: left;
+   position: relative;
+   left: 10%;
+}
+#new{
+   text-align: left;
+   position: relative;
+   left: 10%;
+}
+
+.box {
+width: 30%;
+height: 350px;
+margin:40px auto;
+position: absolute;
+right: 20%;
+top: 60%;
+background-color: white;
+padding: 50px;
+}
+.effect1{
+   box-shadow: 0px 0px 10px 0px #777777;
+}
+  
+
+
+
+
+   #miss {
+       font-weight: bold;
+       color: black;
+}
+#new {
+    color: black;
+}
